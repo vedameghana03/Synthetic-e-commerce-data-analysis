@@ -1,17 +1,17 @@
 # Insights: Synthetic e-commerce data analysis
 
 1.	Clean & Complete Data
--- Dataset contains 100,000 transactions with no missing values.
--- All dates successfully converted to datetime and broken into Date, Month, Hour.
+. Dataset contains 100,000 transactions with no missing values.
+. All dates successfully converted to datetime and broken into Date, Month, Hour.
 
 2.	Key Metrics
--- Effective Revenue
--- Revenue Per Unit
--- Discount Per Unit
--- CTR Band
--- Weekend vs Weekday Transactions
--- Weekday and weekend Revenue 
--- Revenue to Discount Ratio
+. Effective Revenue
+. Revenue Per Unit
+. Discount Per Unit
+. CTR Band
+. Weekend vs Weekday Transactions
+. Weekday and weekend Revenue 
+. Revenue to Discount Ratio
 
 3.	Trends
 •	Peak Transaction Day: 14th October 2024
